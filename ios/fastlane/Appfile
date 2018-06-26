@@ -1,0 +1,8 @@
+app_identifier("com.timurz.testappdeploy") # The bundle identifier of your app
+apple_id("engineer@timurz.com") # Your Apple email address
+
+itc_team_id("119151086") # iTunes Connect Team ID
+team_id("Y37L26WM4Q") # Developer Portal Team ID
+
+# For more information about the Appfile, see:
+#     https://docs.fastlane.tools/advanced/#appfile
