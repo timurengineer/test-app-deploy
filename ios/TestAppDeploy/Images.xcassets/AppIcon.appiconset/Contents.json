@@ -3,7 +3,7 @@
     {
       "size" : "20x20",
       "idiom" : "iphone",
-      "filename" : "apple-icon-57x57.png",
+      "filename" : "favicon-40x40.png",
       "scale" : "2x"
     },
     {
@@ -27,7 +27,7 @@
     {
       "size" : "40x40",
       "idiom" : "iphone",
-      "filename" : "apple-icon-114x114-1.png",
+      "filename" : "favicon-80x80.png",
       "scale" : "2x"
     },
     {
@@ -51,7 +51,7 @@
     {
       "size" : "1024x1024",
       "idiom" : "ios-marketing",
-      "filename" : "apple-icon.png",
+      "filename" : "favicon.jpg",
       "scale" : "1x"
     }
   ],
