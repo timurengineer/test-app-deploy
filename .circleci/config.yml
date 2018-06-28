@@ -109,6 +109,10 @@ jobs:
       - store_artifacts:
           path: ios/test-results
 
+      - run:
+          command: bundle exec fastlane beta
+          working_directory: ios
+
 workflows:
   version: 2
   node-android-ios:
